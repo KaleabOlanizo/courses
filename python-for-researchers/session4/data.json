@@ -1,4 +1,4 @@
-[
+{"students": {
   {"id":1,"name":"Alice","gender":"F","age":20,"score":88,"grade":"A"},
 {"id":2,"name":"Bob","gender":"M","age":21,"score":76,"grade":"B"},
 {"id":3,"name":"Carol","gender":"F","age":19,"score":92,"grade":"A"},
@@ -7,4 +7,4 @@
 {"id":6,"name":"Frank","gender":"M","age":23,"score":67,"grade":"C"},
 {"id":7,"name":"Grace","gender":"F","age":21,"score":95,"grade":"A"},
 {"id":8,"name":"Henry","gender":"M","age":22,"score":70,"grade":"C"}
-]
+}}
